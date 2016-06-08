@@ -514,8 +514,10 @@ heinrich_c:
   sur_name: Heinrich
   given_name: Christian
   affiliation: inria
-  position:
-  topics: Performance Tools
+  position: phd
+  topics: >
+    Performance Tools and Performance Analysis.
+    Simulation of parallel applications with SimGrid / SMPI.
   email: franz-christian.heinrich@inria.fr
   homepage:
 
